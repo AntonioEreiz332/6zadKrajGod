@@ -1,0 +1,7 @@
+C:\Users\toni-PC\source\repos\6Ponavljanje\6Ponavljanje\obj\Debug\6Ponavljanje.csprojAssemblyReference.cache
+C:\Users\toni-PC\source\repos\6Ponavljanje\6Ponavljanje\obj\Debug\6Ponavljanje.csproj.CoreCompileInputs.cache
+C:\Users\toni-PC\source\repos\6Ponavljanje\6Ponavljanje\bin\Debug\6Ponavljanje.exe.config
+C:\Users\toni-PC\source\repos\6Ponavljanje\6Ponavljanje\bin\Debug\6Ponavljanje.exe
+C:\Users\toni-PC\source\repos\6Ponavljanje\6Ponavljanje\bin\Debug\6Ponavljanje.pdb
+C:\Users\toni-PC\source\repos\6Ponavljanje\6Ponavljanje\obj\Debug\6Ponavljanje.exe
+C:\Users\toni-PC\source\repos\6Ponavljanje\6Ponavljanje\obj\Debug\6Ponavljanje.pdb
